@@ -78,5 +78,6 @@
 
 <h3 align="left">All Stats</h3>
 <p align="left"><a href="https://tryhackme.com/r/p/coderpanda11"><img src="https://tryhackme-badges.s3.amazonaws.com/coderpanda11.png" alt="Your Image Badge" /></a></p>
+<p align="left"><a href="https://cyberdefenders.org/p/Coderpanda11#/overview"><img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Coderpanda11.png" width="300" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderpanda11&show_icons=true&locale=en" alt="coderpanda11" /></p>
 <p align="left"><a href="https://github.com/coderpanda11/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpanda11&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
