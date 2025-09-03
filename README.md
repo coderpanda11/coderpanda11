@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sidharthpanda1](https://medium.com/@sidharthpanda1)
 
-- 📫 How to reach me: **[https://coderpanda11.github.io/digital_portfolio/](https://coderpanda11.github.io/digital_portfolio/)**
+
 
 <details>
   <summary>More about me</summary>
