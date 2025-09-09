@@ -5,7 +5,7 @@ A relentless explorer of digital shadows, building tools and tearing apart syste
 </h3>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&width=900&lines=Digital+Forensics+Specialist;Cybersecurity+Researcher;Reverse+Engineer;AI+for+Cyber+Defense;Always+Learning%2C+Always+Hunting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&width=900&lines=Digital+Forensics+Practioner;Cybersecurity+Researcher;Reverse+Engineer;AI+for+Cyber+Defense;Always+Learning%2C+Always+Hunting;ALWAYS+LOOKING)](https://git.io/typing-svg)
 
 
 
